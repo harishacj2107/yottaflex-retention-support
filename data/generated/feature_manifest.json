@@ -1,0 +1,19 @@
+{
+  "feature_cutoff": "2026-06-30",
+  "included_sources": [
+    "engagement_surveys",
+    "workload_snapshots",
+    "tenure_snapshots",
+    "promotion_history"
+  ],
+  "excluded_sources": [
+    "attrition_outcomes",
+    "interventions",
+    "ground_truth.json"
+  ],
+  "rules": [
+    "only records dated on or before the feature cutoff are used",
+    "missing survey values remain null and reduce confidence",
+    "scores carry a human review requirement and are not employment decisions"
+  ]
+}

@@ -1,0 +1,13 @@
+team_id,team_name,function,active
+TEAM-001,Platform Team,Platform,1
+TEAM-002,Data Team,Data,1
+TEAM-003,Applications Team,Applications,1
+TEAM-004,Service Delivery Team,Service Delivery,1
+TEAM-005,Customer Care Team,Customer Care,1
+TEAM-006,Product Team,Product,1
+TEAM-007,People Operations Team,People Operations,1
+TEAM-008,Finance Team,Finance,1
+TEAM-009,Security Team,Security,1
+TEAM-010,Sales Team,Sales,1
+TEAM-011,Quality Team,Quality,1
+TEAM-012,Research Team,Research,1

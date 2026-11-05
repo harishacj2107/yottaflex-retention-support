@@ -1,0 +1,25 @@
+{"active":1,"job_family":"Engineering","level":1,"role_id":"ROL-01-1","role_name":"Engineering Associate"}
+{"active":1,"job_family":"Engineering","level":2,"role_id":"ROL-01-2","role_name":"Engineering Specialist"}
+{"active":1,"job_family":"Engineering","level":3,"role_id":"ROL-01-3","role_name":"Engineering Senior"}
+{"active":1,"job_family":"Engineering","level":4,"role_id":"ROL-01-4","role_name":"Engineering Lead"}
+{"active":1,"job_family":"Engineering","level":5,"role_id":"ROL-01-5","role_name":"Engineering Principal"}
+{"active":1,"job_family":"Operations","level":1,"role_id":"ROL-02-1","role_name":"Operations Associate"}
+{"active":1,"job_family":"Operations","level":2,"role_id":"ROL-02-2","role_name":"Operations Specialist"}
+{"active":1,"job_family":"Operations","level":3,"role_id":"ROL-02-3","role_name":"Operations Senior"}
+{"active":1,"job_family":"Operations","level":4,"role_id":"ROL-02-4","role_name":"Operations Lead"}
+{"active":1,"job_family":"Operations","level":5,"role_id":"ROL-02-5","role_name":"Operations Principal"}
+{"active":1,"job_family":"Customer Success","level":1,"role_id":"ROL-03-1","role_name":"Customer Success Associate"}
+{"active":1,"job_family":"Customer Success","level":2,"role_id":"ROL-03-2","role_name":"Customer Success Specialist"}
+{"active":1,"job_family":"Customer Success","level":3,"role_id":"ROL-03-3","role_name":"Customer Success Senior"}
+{"active":1,"job_family":"Customer Success","level":4,"role_id":"ROL-03-4","role_name":"Customer Success Lead"}
+{"active":1,"job_family":"Customer Success","level":5,"role_id":"ROL-03-5","role_name":"Customer Success Principal"}
+{"active":1,"job_family":"Product","level":1,"role_id":"ROL-04-1","role_name":"Product Associate"}
+{"active":1,"job_family":"Product","level":2,"role_id":"ROL-04-2","role_name":"Product Specialist"}
+{"active":1,"job_family":"Product","level":3,"role_id":"ROL-04-3","role_name":"Product Senior"}
+{"active":1,"job_family":"Product","level":4,"role_id":"ROL-04-4","role_name":"Product Lead"}
+{"active":1,"job_family":"Product","level":5,"role_id":"ROL-04-5","role_name":"Product Principal"}
+{"active":1,"job_family":"Finance","level":1,"role_id":"ROL-05-1","role_name":"Finance Associate"}
+{"active":1,"job_family":"Finance","level":2,"role_id":"ROL-05-2","role_name":"Finance Specialist"}
+{"active":1,"job_family":"Finance","level":3,"role_id":"ROL-05-3","role_name":"Finance Senior"}
+{"active":1,"job_family":"Finance","level":4,"role_id":"ROL-05-4","role_name":"Finance Lead"}
+{"active":1,"job_family":"Finance","level":5,"role_id":"ROL-05-5","role_name":"Finance Principal"}

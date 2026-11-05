@@ -1,0 +1,47 @@
+{
+  "known_anomalies": [
+    {
+      "case_id": "CASE-001",
+      "employee_id": "EMP-000001",
+      "expected_decision": "reject feature; scoring uses records dated on or before cutoff",
+      "fixture": {
+        "feature_cutoff": "2026-06-30",
+        "leaked_field": "termination_date",
+        "leaked_value": "2026-10-31"
+      },
+      "issue_type": "future_information_leak"
+    },
+    {
+      "case_id": "CASE-002",
+      "employee_id": "EMP-000001",
+      "expected_decision": "do not impute a low score; lower confidence and disclose missingness",
+      "fixture": {
+        "engagement_score": null,
+        "response_status": "missing"
+      },
+      "issue_type": "missing_survey_treated_as_negative"
+    },
+    {
+      "case_id": "CASE-003",
+      "employee_id": "EMP-000001",
+      "expected_decision": "validation failure; label and termination date must reconcile",
+      "fixture": {
+        "termination_date": "2026-09-30",
+        "voluntary_attrition": 0
+      },
+      "issue_type": "outcome_label_date_inconsistent"
+    },
+    {
+      "case_id": "CASE-004",
+      "employee_id": "EMP-000001",
+      "expected_decision": "block display; require explanation and human review; no employment decision",
+      "fixture": {
+        "explanation": "",
+        "human_review_required": 0,
+        "risk_score": 88
+      },
+      "issue_type": "individual_score_without_explanation_or_human_review"
+    }
+  ],
+  "outcome_rule": "Each voluntary exit is sampled from a propensity computed from pre-cutoff synthetic engagement, workload and career drivers; the target horizon is 2026-07 through 2026-12. This is a synthetic label, not observed employee truth."
+}

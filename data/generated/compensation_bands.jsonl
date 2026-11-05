@@ -1,0 +1,5 @@
+{"band_id":"BAND-L1","currency":"USD","effective_from":"2025-01-01","effective_to":null,"level":1,"max_annual":65000,"min_annual":42000}
+{"band_id":"BAND-L2","currency":"USD","effective_from":"2025-01-01","effective_to":null,"level":2,"max_annual":89000,"min_annual":60000}
+{"band_id":"BAND-L3","currency":"USD","effective_from":"2025-01-01","effective_to":null,"level":3,"max_annual":113000,"min_annual":78000}
+{"band_id":"BAND-L4","currency":"USD","effective_from":"2025-01-01","effective_to":null,"level":4,"max_annual":137000,"min_annual":96000}
+{"band_id":"BAND-L5","currency":"USD","effective_from":"2025-01-01","effective_to":null,"level":5,"max_annual":161000,"min_annual":114000}

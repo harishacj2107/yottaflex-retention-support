@@ -1,0 +1,12 @@
+{
+  "evaluation_type": "temporal holdout; score uses records through 2026-06-30 and target uses 2026-07-01 through 2026-12-31",
+  "held_out_employee_count": 2000,
+  "holdout_attrition_count": 150,
+  "holdout_prevalence": 0.075,
+  "interpretation": "Synthetic internal evaluation only; rule prioritization is not a validated employment prediction model and must not determine employment outcomes.",
+  "lift_at_top_20pct": 1.2667,
+  "precision_at_top_20pct": 0.095,
+  "recall_at_top_20pct": 0.2533,
+  "roc_auc": 0.5686,
+  "split_rule": "employee_id numeric suffix divisible by 5 (20% holdout); deterministic cohort split"
+}

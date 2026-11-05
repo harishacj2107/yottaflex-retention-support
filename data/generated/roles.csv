@@ -1,0 +1,26 @@
+role_id,role_name,job_family,level,active
+ROL-01-1,Engineering Associate,Engineering,1,1
+ROL-01-2,Engineering Specialist,Engineering,2,1
+ROL-01-3,Engineering Senior,Engineering,3,1
+ROL-01-4,Engineering Lead,Engineering,4,1
+ROL-01-5,Engineering Principal,Engineering,5,1
+ROL-02-1,Operations Associate,Operations,1,1
+ROL-02-2,Operations Specialist,Operations,2,1
+ROL-02-3,Operations Senior,Operations,3,1
+ROL-02-4,Operations Lead,Operations,4,1
+ROL-02-5,Operations Principal,Operations,5,1
+ROL-03-1,Customer Success Associate,Customer Success,1,1
+ROL-03-2,Customer Success Specialist,Customer Success,2,1
+ROL-03-3,Customer Success Senior,Customer Success,3,1
+ROL-03-4,Customer Success Lead,Customer Success,4,1
+ROL-03-5,Customer Success Principal,Customer Success,5,1
+ROL-04-1,Product Associate,Product,1,1
+ROL-04-2,Product Specialist,Product,2,1
+ROL-04-3,Product Senior,Product,3,1
+ROL-04-4,Product Lead,Product,4,1
+ROL-04-5,Product Principal,Product,5,1
+ROL-05-1,Finance Associate,Finance,1,1
+ROL-05-2,Finance Specialist,Finance,2,1
+ROL-05-3,Finance Senior,Finance,3,1
+ROL-05-4,Finance Lead,Finance,4,1
+ROL-05-5,Finance Principal,Finance,5,1

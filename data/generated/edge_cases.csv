@@ -1,0 +1,5 @@
+case_id,issue_type,employee_id,expected_decision
+CASE-001,future_information_leak,EMP-000001,reject feature; scoring uses records dated on or before cutoff
+CASE-002,missing_survey_treated_as_negative,EMP-000001,do not impute a low score; lower confidence and disclose missingness
+CASE-003,outcome_label_date_inconsistent,EMP-000001,validation failure; label and termination date must reconcile
+CASE-004,individual_score_without_explanation_or_human_review,EMP-000001,block display; require explanation and human review; no employment decision
